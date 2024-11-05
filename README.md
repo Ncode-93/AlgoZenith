@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# AlgoZenith
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A project showcasing a clean, user-friendly educational platform interface inspired by Figma's UI design principles. The interface is built to facilitate an online learning experience with structured chapters, learning materials, quizzes, coding exercises, and resources. This project is designed with responsiveness and accessibility in mind, making it easy for users to navigate and track their progress through the course content.
+
+## LIVE DEMO
+https://algozenith-figma.netlify.app/
+
+## FEATURES
+**Structured Layout:** Chapters are organized sequentially with each chapter containing various learning materials like videos, articles, quizzes, and exercises.<br>
+**Progress Tracking:** Users can view their progress for each part, providing visual feedback on the completion percentage.<br>
+**Clean, Minimal UI:** Design is based on a Figma-inspired aesthetic with a focus on readability and ease of use.<br>
+**Responsiveness:** Optimized for both desktop and mobile viewing, ensuring a consistent experience across devices.<br>
+**Tailwind CSS:** Styled using Tailwind CSS for rapid development and a cohesive, modern look.<br>
+
+## TECHNOLOGIES
+**ReactJS<br>
+Tailwind CSS<br>
+Netlify for hosting**
 
 ## Available Scripts
 
